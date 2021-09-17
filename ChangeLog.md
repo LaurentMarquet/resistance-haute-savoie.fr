@@ -1,4 +1,9 @@
-ChangeLog
+# ChangeLog
+
+## v0.2
+
+- Modification du README (17/09/2021)
+- Ajout des contributeurs (17/09/2021)
 
 ## v0.1
 
